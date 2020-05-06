@@ -11,7 +11,7 @@ class Question extends Component {
         console.log(data);
         
         return (
-            <div className="container-fluid p-4 text-center">
+            <div className="container-fluid p-4 text-center col-lg-6 mx-auto">
                 <img src={doctor} alt="doctor" style={{width: '200px', height: 'auto'}}/>
                 <h5 className="pt-5">
                     {data.text}

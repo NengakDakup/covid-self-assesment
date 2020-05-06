@@ -24,7 +24,7 @@ class Home extends Component {
             You can also take it on behalf of someone else.
           </p>
           <div className="row bg-success p-3 m-md-4 rounded">
-            <div className="action-card col-md-3 mt-xs-4" onClick={() => this.navigate('/assesment')}>
+            <div className="action-card col-md-3 mt-xs-4" onClick={() => this.navigate('/details')}>
               <div class="card">
                 <div class="card-body font-weight-bolder">
                   Take Test <i className="fa fa-arrow-right"></i>
