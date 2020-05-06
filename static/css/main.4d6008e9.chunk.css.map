@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,aACE,2BAA4B,CAC5B,cACF,CAEA,mBACE,6BAAsB,CAAtB,qBACF","file":"main.4d6008e9.chunk.css","sourcesContent":[".action-card {\n  transition: .35s ease-in-out;\n  cursor: pointer;\n}\n\n.action-card:hover {\n  transform: scale(1.05);\n}"]}

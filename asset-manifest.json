@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/covid-self-assesment/static/css/main.3a1b807f.chunk.css",
-    "main.js": "/covid-self-assesment/static/js/main.bb158d37.chunk.js",
-    "main.js.map": "/covid-self-assesment/static/js/main.bb158d37.chunk.js.map",
+    "main.css": "/covid-self-assesment/static/css/main.4d6008e9.chunk.css",
+    "main.js": "/covid-self-assesment/static/js/main.0d6c65c5.chunk.js",
+    "main.js.map": "/covid-self-assesment/static/js/main.0d6c65c5.chunk.js.map",
     "runtime-main.js": "/covid-self-assesment/static/js/runtime-main.1b3e956b.js",
     "runtime-main.js.map": "/covid-self-assesment/static/js/runtime-main.1b3e956b.js.map",
     "static/css/2.69121389.chunk.css": "/covid-self-assesment/static/css/2.69121389.chunk.css",
-    "static/js/2.849b9a95.chunk.js": "/covid-self-assesment/static/js/2.849b9a95.chunk.js",
-    "static/js/2.849b9a95.chunk.js.map": "/covid-self-assesment/static/js/2.849b9a95.chunk.js.map",
+    "static/js/2.80a2323a.chunk.js": "/covid-self-assesment/static/js/2.80a2323a.chunk.js",
+    "static/js/2.80a2323a.chunk.js.map": "/covid-self-assesment/static/js/2.80a2323a.chunk.js.map",
     "index.html": "/covid-self-assesment/index.html",
-    "precache-manifest.f08049654563deb66ec1721782defdb6.js": "/covid-self-assesment/precache-manifest.f08049654563deb66ec1721782defdb6.js",
+    "precache-manifest.2396ebe1ec6df557ab1a892cdb8658a7.js": "/covid-self-assesment/precache-manifest.2396ebe1ec6df557ab1a892cdb8658a7.js",
     "service-worker.js": "/covid-self-assesment/service-worker.js",
     "static/css/2.69121389.chunk.css.map": "/covid-self-assesment/static/css/2.69121389.chunk.css.map",
-    "static/css/main.3a1b807f.chunk.css.map": "/covid-self-assesment/static/css/main.3a1b807f.chunk.css.map",
-    "static/js/2.849b9a95.chunk.js.LICENSE.txt": "/covid-self-assesment/static/js/2.849b9a95.chunk.js.LICENSE.txt",
+    "static/css/main.4d6008e9.chunk.css.map": "/covid-self-assesment/static/css/main.4d6008e9.chunk.css.map",
+    "static/js/2.80a2323a.chunk.js.LICENSE.txt": "/covid-self-assesment/static/js/2.80a2323a.chunk.js.LICENSE.txt",
     "static/media/doctor.svg": "/covid-self-assesment/static/media/doctor.8f6c9146.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.1b3e956b.js",
     "static/css/2.69121389.chunk.css",
-    "static/js/2.849b9a95.chunk.js",
-    "static/css/main.3a1b807f.chunk.css",
-    "static/js/main.bb158d37.chunk.js"
+    "static/js/2.80a2323a.chunk.js",
+    "static/css/main.4d6008e9.chunk.css",
+    "static/js/main.0d6c65c5.chunk.js"
   ]
 }
